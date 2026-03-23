@@ -258,3 +258,6 @@ For questions or suggestions regarding this project, please open an issue in the
 ---
 
 > 💡 **Pro Tip**: This project demonstrates comprehensive IT service management analytics skills perfect for IT operations and business analyst roles!
+=======
+# it-ticket-analysis
+>>>>>>> d4b7d8ce83dfd823f213a85ac27c9a755eceed5e
